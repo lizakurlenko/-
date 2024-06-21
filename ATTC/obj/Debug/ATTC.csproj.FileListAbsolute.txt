@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\ATTC\bin\Debug\ATTC.exe.config
+C:\Users\student\source\repos\ATTC\bin\Debug\ATTC.exe
+C:\Users\student\source\repos\ATTC\bin\Debug\ATTC.pdb
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.Properties.Resources.resources
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.exe
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.pdb
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.Form1.resources
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.MenuForm.resources
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.TariffsForm.resources
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.ContactsForm.resources
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.ClientsForm.resources
+C:\Users\student\source\repos\ATTC\obj\Debug\ATTC.AddContractsForm.resources
